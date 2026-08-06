@@ -1,4 +1,4 @@
-Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+# Lab 1 - Introduction to AWS Identity and Access Management (IAM)
 #### **Name:** Santhosh P
 #### **Reg No:** 212224220088
 
